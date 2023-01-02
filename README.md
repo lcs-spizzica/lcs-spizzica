@@ -1,6 +1,6 @@
 ### Oiii👋!!! Eu sou o Lucas Spizzica
 
-- 🔭 Estou atuando como estagiário no momento
+- 🔭 Estou atuando como estagiário no momento mas aberto para propostas
 - 🌱 Cursando ADS e FullStack
 - ⚡ Aprender e focar mais cada dia
 
